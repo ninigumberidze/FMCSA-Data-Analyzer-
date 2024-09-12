@@ -1,0 +1,29 @@
+company_name,address,drivers,vehicles,commodities_carried
+ABC Trucking,123 Main St,50,20,General Freight
+XYZ Logistics,456 Elm St,30,15,Refrigerated Food
+Smith Transport,789 Oak St,25,10,Hazardous Materials
+Johnson Hauling,987 Pine St,40,18,Construction Materials
+Greenway Shipping,321 Maple Ave,35,12,General Freight
+Blue Ribbon Transport,654 Cedar Rd,20,8,Refrigerated Food
+Red Star Logistics,876 Birch Ln,45,22,Hazardous Materials
+Silver Arrow Haulers,543 Pinecrest Dr,55,25,Construction Materials
+Golden Gate Freight,432 Oakwood Blvd,38,17,General Freight
+Sunrise Transport,789 Willow St,28,11,Refrigerated Food
+Moonlight Carriers,987 Sunset Blvd,42,19,Hazardous Materials
+Starlight Logistics,234 Sunrise Ave,60,30,Construction Materials
+Swift Cargo Services,876 Rainbow Rd,48,23,General Freight
+Northwind Express,543 Thunderbird Ave,32,14,Refrigerated Food
+Southbound Carriers,321 Eagle St,50,25,Hazardous Materials
+East Coast Shipping,678 Ocean Blvd,70,35,Construction Materials
+West Coast Transport,987 Beach Rd,55,28,General Freight
+Central Transport,234 River Dr,40,18,Refrigerated Food
+Midwest Logistics,876 Lakeview Ln,65,30,Hazardous Materials
+Pacific Haulers,543 Mountain Ave,45,20,Construction Materials
+Atlantic Freight,321 Valley Rd,30,12,General Freight
+Bayside Shipping,678 Harbor Dr,25,10,Refrigerated Food
+Seaside Transport,987 Cove Ln,35,15,Hazardous Materials
+Mountain View Carriers,234 Cliffside Ave,40,18,Construction Materials
+Valley Stream Logistics,876 Brook Rd,50,22,General Freight
+Riverfront Transport,543 Rapids St,28,11,Refrigerated Food
+Lakeside Hauling,321 Shoreline Dr,42,19,Hazardous Materials
+Forest Hill Freight,678 Pinecone Ave,60,30,Construction Materials
